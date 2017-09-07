@@ -3,12 +3,14 @@
   "version": "1.0.0",
   "description": "moodboard",
   "main": "moodboard.js",
+  "repository": "https://github.com/dmdusang/moodboard.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "drew",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.17.2",
     "express": "^4.15.4"
   }
 }
